@@ -3,7 +3,6 @@ version: 0.2
 env:
   variables:
     IMAGE_REPO_NAME: "user21-delivery"
-version: 0.2
 
 phases:
   install:
